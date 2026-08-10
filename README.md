@@ -8,48 +8,49 @@
   <a href="https://twitter.com/Mugabe_Richard_"><img alt="Twitter" src="https://img.shields.io/badge/%40Mugabe__Richard__-1d9bf0?logo=x&logoColor=white"></a>
 </p>
 
-I build production systems end to end, and I run the business side of a project just as comfortably — scoping it, managing it, and getting it in front of the right people once it ships. Most teams need three people for that. I'm one freelancer who's done all three.
-
-Most of my client work is private or under NDA. What's below is what I can show publicly.
+I cover four things most teams pay three or four separate people for: building the system, managing the project it's part of, getting it in front of the right audience, and keeping the infrastructure it runs on healthy.
 
 ---
 
-### Skills & tools
+### Software Engineering
 
-**Engineering** — TypeScript/JavaScript, React, Next.js, SQL (PostgreSQL/MySQL) schema design, AWS, Docker, CI/CD pipelines
-**Project management** — Agile/Scrum, Jira
-**Digital marketing** — SEO, paid ads (Meta/Google Ads), social media management, email marketing (Mailchimp)
-**IT support** — helpdesk/troubleshooting, networking, sysadmin (server & hosting management)
+Full-stack, end to end — from data model to deployment.
+
+- **Languages/Frameworks:** TypeScript, JavaScript, React, Next.js
+- **Data:** PostgreSQL, MySQL — schema design, migrations, query optimization
+- **Infrastructure:** AWS, Docker, CI/CD pipelines
+- Comfortable owning a system alone: architecture decisions, backend logic, UI, and the regulatory/business rules it has to satisfy
+
+### Project Management
+
+- Agile/Scrum — sprint planning, backlog management, delivery under deadline pressure
+- Jira — tracking, reporting, cross-team coordination
+- Translating a non-technical client's goals into a scoped, sequenced build
+
+### Digital Marketing
+
+- SEO — technical and content-driven
+- Paid acquisition — Meta Ads, Google Ads
+- Social media management and content calendars
+- Email marketing and automation (Mailchimp)
+
+### IT Support & Systems
+
+- Helpdesk / troubleshooting for end users
+- Networking setup and maintenance
+- Server administration and hosting management (production Linux/cPanel environments)
 
 ---
 
-### 🏦 Cham Business — *loan origination & servicing platform*
+### Proof of work
 
-Built and maintained solo, from product decision to deployment. Live in production, handling real loan applications and real repayments for a licensed non-deposit lender — this is where the engineering and PM skills above actually met.
-
-- Read Rwanda's central bank lending regulation (111 articles) and turned it into enforced system behavior — including the *in duplum* rule, a legal cap on interest and penalties, implemented as a transactional invariant that can't be bypassed, not a form check.
-- Reducing-balance amortization engine: mid-term restructuring, write-offs, and a payment-correction path that safely replays repayment history.
-- Two independent auth domains (staff vs. borrower), OTP-based passwordless login, full audit log on every staff mutation, two-tier archive/delete with per-entity safety gates.
-- Deployed and administered the production hosting myself (LiteSpeed/cPanel, MySQL, SMTP) — the sysadmin work behind the engineering.
-
-**[→ Live site](https://chambusiness.org)** · **[→ Full engineering writeup](https://github.com/mugabee/cham-business)**
-
-### More on GitHub
-
-| Project | What it does |
-|---|---|
-| **[MovieList](https://github.com/mugabee/MovieList)** | Movie database with user authentication |
-| **[Localization-App](https://github.com/mugabee/Localization-App)** | React + Google Maps — finds nearby places from user location |
+Most of my client engagements are private or under NDA. Publicly, the clearest example of these skills combined is **[Cham Business](https://chambusiness.org)** — a loan origination and servicing platform I designed, built, and deployed solo for a licensed lender, including translating a 111-article central bank regulation into enforced system logic. Details: **[github.com/mugabee/cham-business](https://github.com/mugabee/cham-business)**.
 
 ---
 
 ### Working with me
 
-**Engineering** — full builds or a specific hard problem inside an existing system.
-**Project management** — scoping, timelines, and keeping a build on track when the client isn't technical.
-**Digital marketing & IT support** — the practical side early-stage teams need but can't always justify hiring for.
-
-All of the above, freelance, through **[KSTOREZ LTD](https://mugaberichard.com)**.
+Available for freelance and contract work across any of the four areas above — a full build, a specific technical problem, project oversight, or ongoing marketing/IT support — through **[KSTOREZ LTD](https://mugaberichard.com)**.
 
 <p align="center">
   <a href="https://mugaberichard.com">mugaberichard.com</a> ·
