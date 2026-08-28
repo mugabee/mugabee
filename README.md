@@ -80,15 +80,6 @@ Other work covers lending ops, business sites, hosting, and internal tools for t
 
 <br>
 
-## GitHub activity
-
-<p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mugabee&show_icons=true&hide_title=true&hide_border=true&count_private=true&text_color=333&icon_color=2563b8&title_color=2563b8">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugabee&layout=compact&hide_border=true&text_color=333&title_color=2563b8">
-</p>
-
-<br>
-
 ## Contact
 
 <p align="center">
