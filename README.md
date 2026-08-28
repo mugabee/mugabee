@@ -79,13 +79,60 @@ Other work covers lending ops, business sites, hosting, and internal tools for t
 
 ## Skills around the code
 
-| Role | What it covers |
-|---|---|
-| **💻 Software Engineer** | TypeScript, JavaScript, SQL, Next.js, React, Node/Express, PostgreSQL, MySQL, Supabase. Production on Vercel, Render, and cPanel / LiteSpeed / Passenger |
-| **📈 Digital Marketer** | SEO, Meta Ads, Google Ads, social, email (Mailchimp). Used on Cham, light_MoneyTransfer, and client work to get products in front of real users without a separate marketing hire |
-| **📋 Project Manager** | Agile/Scrum, Jira. Turning a client's goal into a scoped build, run myself end to end |
-| **🛠️ IT Support Specialist** | Helpdesk, networking, Linux/cPanel, production hosting. I administer the servers I ship to, including Cham and kstorez |
-| **🚀 Entrepreneur** | Founder or co-founder/CTO on the public examples above, and on other ventures that stay off GitHub |
+Engineering is the main offer below. The rest is what comes with it.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<img src="https://img.shields.io/badge/💻-SOFTWARE%20ENGINEER-2563b8?style=for-the-badge&labelColor=0f172a">
+
+TypeScript, JavaScript, SQL, Next.js, React, Node/Express, PostgreSQL, MySQL, Supabase. Production on Vercel, Render, and cPanel / LiteSpeed / Passenger.
+
+`TypeScript` `Next.js` `React` `PostgreSQL`
+
+</td>
+<td width="33%" valign="top">
+
+<img src="https://img.shields.io/badge/📈-DIGITAL%20MARKETER-0891b2?style=for-the-badge&labelColor=0f172a">
+
+SEO, Meta Ads, Google Ads, social, email (Mailchimp). Used on Cham, light_MoneyTransfer, and client work to get products in front of real users without a separate marketing hire.
+
+`SEO` `Meta Ads` `Google Ads` `Email`
+
+</td>
+<td width="33%" valign="top">
+
+<img src="https://img.shields.io/badge/📋-PROJECT%20MANAGER-b45309?style=for-the-badge&labelColor=0f172a">
+
+Agile/Scrum, Jira. Turning a client's goal into a scoped build, run myself end to end.
+
+`Agile` `Scrum` `Jira` `Scoping`
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+<img src="https://img.shields.io/badge/🛠️-IT%20SUPPORT-475569?style=for-the-badge&labelColor=0f172a">
+
+Helpdesk, networking, Linux/cPanel, production hosting. I administer the servers I ship to, including Cham and kstorez.
+
+`Helpdesk` `Networking` `Linux/cPanel`
+
+</td>
+<td width="33%" valign="top">
+
+<img src="https://img.shields.io/badge/🚀-ENTREPRENEUR-7c3aed?style=for-the-badge&labelColor=0f172a">
+
+Founder or co-founder/CTO on the public examples above, and on other ventures that stay off GitHub.
+
+`Founder` `0→1` `CTO`
+
+</td>
+<td width="33%" valign="top"></td>
+</tr>
+</table>
 
 <p align="center"><img src="assets/divider.svg" width="100%" height="4" alt=""></p>
 
