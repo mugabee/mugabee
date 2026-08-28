@@ -36,7 +36,8 @@ Most engagements stay private. These three are public enough to show how I work.
 <tr>
 <td width="33%" valign="top">
 
-**Cham Business**
+<img src="https://img.shields.io/badge/🏦-CHAM%20BUSINESS-2563b8?style=for-the-badge&labelColor=0f172a">
+
 *CTO, since 2023*
 
 Loan origination and servicing for a licensed lender in Rwanda. Central bank lending rules are enforced in the system, not only written in a policy doc.
@@ -48,7 +49,8 @@ Loan origination and servicing for a licensed lender in Rwanda. Central bank len
 </td>
 <td width="33%" valign="top">
 
-**Uzuza**
+<img src="https://img.shields.io/badge/🤝-UZUZA-16a34a?style=for-the-badge&labelColor=0f172a">
+
 *Co-founder and CTO*
 
 Digital ibimina and cross-border group savings. Next.js, Supabase, MTN MoMo.
@@ -60,7 +62,8 @@ Digital ibimina and cross-border group savings. Next.js, Supabase, MTN MoMo.
 </td>
 <td width="33%" valign="top">
 
-**light_MoneyTransfer**
+<img src="https://img.shields.io/badge/💱-LIGHT__MONEYTRANSFER-ea580c?style=for-the-badge&labelColor=0f172a">
+
 *Founder and CTO*
 
 Live FX rates and WhatsApp quotes. Node, Express, Postgres.
