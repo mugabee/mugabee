@@ -72,10 +72,10 @@ Other work covers lending ops, business sites, hosting, and internal tools for t
 
 | Role | What it covers |
 |---|---|
-| **💻 Software Engineer** | TypeScript, JavaScript, SQL, Next.js, React, Node/Express, PostgreSQL, MySQL, Supabase — production on Vercel, Render, and cPanel / LiteSpeed / Passenger |
-| **📈 Digital Marketer** | SEO, Meta Ads, Google Ads, social, email (Mailchimp) — used on Cham, light_MoneyTransfer, and client work to get products in front of real users without a separate marketing hire |
-| **📋 Project Manager** | Agile/Scrum, Jira — turning a client's goal into a scoped build, run myself end to end |
-| **🛠️ IT Support Specialist** | Helpdesk, networking, Linux/cPanel, production hosting — I administer the servers I ship to, including Cham and kstorez |
+| **💻 Software Engineer** | TypeScript, JavaScript, SQL, Next.js, React, Node/Express, PostgreSQL, MySQL, Supabase. Production on Vercel, Render, and cPanel / LiteSpeed / Passenger |
+| **📈 Digital Marketer** | SEO, Meta Ads, Google Ads, social, email (Mailchimp). Used on Cham, light_MoneyTransfer, and client work to get products in front of real users without a separate marketing hire |
+| **📋 Project Manager** | Agile/Scrum, Jira. Turning a client's goal into a scoped build, run myself end to end |
+| **🛠️ IT Support Specialist** | Helpdesk, networking, Linux/cPanel, production hosting. I administer the servers I ship to, including Cham and kstorez |
 | **🚀 Entrepreneur** | Founder or co-founder/CTO on the public examples above, and on other ventures that stay off GitHub |
 
 <br>
