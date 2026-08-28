@@ -6,8 +6,8 @@
 
 <p align="center">
   <img alt="Experience" src="https://img.shields.io/badge/experience-7%20years-2563b8?style=flat-square">
-  <img alt="Location" src="https://img.shields.io/badge/Kigali%2C%20Rwanda-remote%20%7C%20relocate-2f9e44?style=flat-square">
-  <img alt="Status" src="https://img.shields.io/badge/open%20to-full--time%20%7C%20contract%20%7C%20freelance-black?style=flat-square">
+  <img alt="Location" src="https://img.shields.io/badge/Kigali%2C%20Rwanda-remote%20%7C%20relocate-1e3a5f?style=flat-square">
+  <img alt="Status" src="https://img.shields.io/badge/open%20to-full--time%20%7C%20contract%20%7C%20freelance-0f172a?style=flat-square">
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ I build the product, run the project, get it in front of users, and keep the ser
 
 Open to full-time, contract, and freelance work. Engineering is the main offer. The other skills come with it when a team needs them. Based in Kigali. Remote or open to relocation.
 
-<br>
+<p align="center"><img src="assets/divider.svg" width="100%" height="4" alt=""></p>
 
 ## Public examples
 
@@ -41,6 +41,8 @@ Most engagements stay private. These three are public enough to show how I work.
 
 Loan origination and servicing for a licensed lender in Rwanda. Central bank lending rules are enforced in the system, not only written in a policy doc.
 
+`Next.js` `TypeScript` `MySQL`
+
 [→ github.com/mugabee/cham-business](https://github.com/mugabee/cham-business)
 
 </td>
@@ -50,6 +52,8 @@ Loan origination and servicing for a licensed lender in Rwanda. Central bank len
 *Co-founder and CTO*
 
 Digital ibimina and cross-border group savings. Next.js, Supabase, MTN MoMo.
+
+`Next.js` `Supabase` `MTN MoMo`
 
 [→ github.com/mugabee/uzuza](https://github.com/mugabee/uzuza)
 
@@ -61,6 +65,8 @@ Digital ibimina and cross-border group savings. Next.js, Supabase, MTN MoMo.
 
 Live FX rates and WhatsApp quotes. Node, Express, Postgres.
 
+`Node.js` `Express` `Postgres`
+
 [→ github.com/mugabee/light_MoneyTransfer](https://github.com/mugabee/light_MoneyTransfer)
 
 </td>
@@ -69,7 +75,7 @@ Live FX rates and WhatsApp quotes. Node, Express, Postgres.
 
 Other work covers lending ops, business sites, hosting, and internal tools for teams that cannot put the repo on GitHub.
 
-<br>
+<p align="center"><img src="assets/divider.svg" width="100%" height="4" alt=""></p>
 
 ## Skills around the code
 
@@ -81,7 +87,7 @@ Other work covers lending ops, business sites, hosting, and internal tools for t
 | **🛠️ IT Support Specialist** | Helpdesk, networking, Linux/cPanel, production hosting. I administer the servers I ship to, including Cham and kstorez |
 | **🚀 Entrepreneur** | Founder or co-founder/CTO on the public examples above, and on other ventures that stay off GitHub |
 
-<br>
+<p align="center"><img src="assets/divider.svg" width="100%" height="4" alt=""></p>
 
 ## Contact
 
