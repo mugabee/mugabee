@@ -24,7 +24,27 @@ Open to full-time, contract, and freelance engineering work. Based in Kigali; re
 **Deploy/infra:** Vercel, Render, cPanel/LiteSpeed/Passenger (self-managed production hosting)
 **Integrations:** MTN Mobile Money, Africa's Talking (SMS), WhatsApp Cloud API, Capacitor (native iOS/Android shells)
 
-*Also comfortable with:* project management (Agile/Scrum, Jira), digital marketing (SEO, paid acquisition, email), and IT support/sysadmin — useful when a team needs one person to own more than the codebase.
+---
+
+### Beyond the code
+
+I don't just write the software — on each of the three ventures below I've also run the project, marketed it, and kept its infrastructure alive. That combination is why a one-person team was enough to take each of them from idea to production.
+
+**📈 Digital Marketer**
+SEO, paid acquisition (Meta/Google Ads), social media management, and email marketing — the channels that got Cham Business and light_MoneyTransfer in front of their first real users, without a separate marketing hire.
+*Skills:* SEO (technical + content) · Meta Ads · Google Ads · social media management · email marketing/automation (Mailchimp)
+
+**⏳ Project Manager**
+Agile/Scrum, Jira. Scoped and sequenced every build below from a client or co-founder's goals to a shipped, working product — the PM function wasn't outsourced, it was mine.
+*Skills:* Agile/Scrum · sprint planning · backlog management · Jira · stakeholder scoping for non-technical clients
+
+**🛠️ IT Support Specialist**
+Helpdesk/troubleshooting, networking, and server administration. Cham Business and kstorez run on self-managed cPanel/LiteSpeed hosting I provision and maintain myself — the "IT support" title isn't a stretch, it's the reason those sites stay up.
+*Skills:* helpdesk/troubleshooting · networking setup & maintenance · Linux/cPanel server administration · production hosting management
+
+**💡 Entrepreneur**
+Founder or co-founder on all three ventures in "What I've built" — CTO at Cham Business, co-founder & CTO at Uzuza, founder at light_MoneyTransfer. Building the company, not just executing someone else's spec.
+*Skills:* product scoping · zero-to-production ownership · regulatory/compliance research · solo full-stack execution end to end
 
 ---
 
@@ -54,3 +74,5 @@ customer-facing quotes. Node.js/Express/Postgres, deployed on Render.
   <a href="https://mugaberichard.com">mugaberichard.com</a> ·
   <a href="https://twitter.com/Mugabe_Richard_">@Mugabe_Richard_</a>
 </p>
+
+<p align="center"><sub>In pursuit of success & happiness.</sub></p>
