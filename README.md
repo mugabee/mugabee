@@ -1,4 +1,7 @@
-<h1 align="center">Mugabe Richard</h1>
+<p align="center">
+  <img alt="Mugabe Richard" src="assets/banner.svg" width="100%">
+</p>
+
 <p align="center">Software Engineer &nbsp;||&nbsp; Digital Marketer &nbsp;||&nbsp; Project Manager &nbsp;||&nbsp; IT Support Specialist &nbsp;||&nbsp; Budding Entrepreneur</p>
 
 <p align="center">

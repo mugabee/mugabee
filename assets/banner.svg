@@ -1,0 +1,37 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e3a5f"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2563b8"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#bg)"/>
+
+  <g opacity="0.08" stroke="#ffffff" stroke-width="1">
+    <line x1="900" y1="0" x2="900" y2="260"/>
+    <line x1="960" y1="0" x2="960" y2="260"/>
+    <line x1="1020" y1="0" x2="1020" y2="260"/>
+    <line x1="1080" y1="0" x2="1080" y2="260"/>
+    <line x1="1140" y1="0" x2="1140" y2="260"/>
+  </g>
+
+  <text x="60" y="118" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff">Mugabe Richard</text>
+
+  <rect x="61" y="140" width="64" height="4" rx="2" fill="url(#accent)"/>
+
+  <text x="60" y="176" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#9fb4d8">Full-Stack Software Engineer &#183; Kigali, Rwanda</text>
+
+  <text x="60" y="212" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#6b8bb8">7 years &#183; TypeScript / Next.js &#183; Open to full-time, contract, freelance</text>
+
+  <g font-family="'Consolas', 'Courier New', monospace" font-size="15" fill="#3d5a80" opacity="0.6">
+    <text x="960" y="90">const</text>
+    <text x="960" y="115">  role</text>
+    <text x="960" y="140">  = "engineer"</text>
+    <text x="960" y="165">  + more;</text>
+  </g>
+</svg>
