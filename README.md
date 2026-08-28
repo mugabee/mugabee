@@ -1,58 +1,56 @@
 <h1 align="center">Mugabe Richard</h1>
-<p align="center"><em>Freelance Software Engineer · Project Manager · Digital Marketer — Kigali, Rwanda</em></p>
+<p align="center"><em>Full-Stack Software Engineer (TypeScript/Next.js) — Kigali, Rwanda</em></p>
 
 <p align="center">
-  <img alt="Location" src="https://img.shields.io/badge/based%20in-Kigali%2C%20Rwanda-2563b8">
-  <img alt="Status" src="https://img.shields.io/badge/status-open%20for%20freelance%20work-2f9e44">
-  <a href="https://mugaberichard.com"><img alt="Website" src="https://img.shields.io/badge/site-mugaberichard.com-black"></a>
-  <a href="https://twitter.com/Mugabe_Richard_"><img alt="Twitter" src="https://img.shields.io/badge/%40Mugabe__Richard__-1d9bf0?logo=x&logoColor=white"></a>
+  <img alt="Experience" src="https://img.shields.io/badge/experience-7%20years-2563b8">
+  <img alt="Location" src="https://img.shields.io/badge/Kigali%2C%20Rwanda-remote%20%7C%20relocate-2f9e44">
+  <a href="mailto:mugabe.richard.37@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-mugabe.richard.37%40gmail.com-black"></a>
+  <a href="https://www.linkedin.com/in/mugabe-richard/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mugabe--richard-0a66c2?logo=linkedin&logoColor=white"></a>
 </p>
 
-I cover four things most teams pay three or four separate people for: building the system, managing the project it's part of, getting it in front of the right audience, and keeping the infrastructure it runs on healthy.
+Full-stack engineer with 7 years building production software, most recently focused on regulated
+fintech and community-finance systems for East Africa: loan servicing, mobile-money-native payments,
+and group-savings infrastructure — TypeScript/Next.js on the frontend and backend, Postgres/MySQL for
+data, deployed and kept running in production, not just demoed.
+
+Open to full-time, contract, and freelance engineering work. Based in Kigali; remote or open to relocation.
 
 ---
 
-### Software Engineering
+### Core stack
 
-Full-stack, end to end — from data model to deployment.
+**Languages/frameworks:** TypeScript, JavaScript, SQL, Next.js (App Router), React, Node.js/Express
+**Data:** PostgreSQL, MySQL, Supabase
+**Deploy/infra:** Vercel, Render, cPanel/LiteSpeed/Passenger (self-managed production hosting)
+**Integrations:** MTN Mobile Money, Africa's Talking (SMS), WhatsApp Cloud API, Capacitor (native iOS/Android shells)
 
-- **Languages/Frameworks:** TypeScript, JavaScript, React, Next.js
-- **Data:** PostgreSQL, MySQL — schema design, migrations, query optimization
-- **Infrastructure:** AWS, Docker, CI/CD pipelines
-- Comfortable owning a system alone: architecture decisions, backend logic, UI, and the regulatory/business rules it has to satisfy
-
-### Project Management
-
-- Agile/Scrum — sprint planning, backlog management, delivery under deadline pressure
-- Jira — tracking, reporting, cross-team coordination
-- Translating a non-technical client's goals into a scoped, sequenced build
-
-### Digital Marketing
-
-- SEO — technical and content-driven
-- Paid acquisition — Meta Ads, Google Ads
-- Social media management and content calendars
-- Email marketing and automation (Mailchimp)
-
-### IT Support & Systems
-
-- Helpdesk / troubleshooting for end users
-- Networking setup and maintenance
-- Server administration and hosting management (production Linux/cPanel environments)
+*Also comfortable with:* project management (Agile/Scrum, Jira), digital marketing (SEO, paid acquisition, email), and IT support/sysadmin — useful when a team needs one person to own more than the codebase.
 
 ---
 
-### Proof of work
+### What I've built
 
-Most of my client engagements are private or under NDA. Publicly, the clearest example of these skills combined is **[Cham Business](https://chambusiness.org)** — a loan origination and servicing platform I designed, built, and deployed solo for a licensed lender, including translating a 111-article central bank regulation into enforced system logic. Details: **[github.com/mugabee/cham-business](https://github.com/mugabee/cham-business)**.
+**[Cham Business](https://chambusiness.org)** — CTO, since 2023
+Loan origination and servicing platform for a licensed non-deposit lender in Rwanda. Designed and built
+the system that turns a 111-article central bank lending regulation into enforced behavior — including
+the *in duplum* interest/penalty cap as a transactional invariant, not a form check. [Engineering writeup →](https://github.com/mugabee/cham-business)
+
+**[Uzuza](https://github.com/mugabee/uzuza)** — Co-founder & CTO, 2026
+Digital platform for *ibimina* (rotating savings groups) and cross-border community contributions,
+currently at idea/early-build stage. Shared ledgers, multi-admin payout approval, and MTN MoMo
+integration, built on Next.js and Supabase.
+
+**[light_MoneyTransfer](https://lightmt.com)** — Founder & CTO
+Money transfer platform with live worldwide exchange rates and WhatsApp Cloud API integration for
+customer-facing quotes. Node.js/Express/Postgres, deployed on Render.
 
 ---
 
-### Working with me
-
-Available for freelance and contract work across any of the four areas above — a full build, a specific technical problem, project oversight, or ongoing marketing/IT support — through **[KSTOREZ LTD](https://mugaberichard.com)**.
+### Contact
 
 <p align="center">
+  <a href="mailto:mugabe.richard.37@gmail.com">mugabe.richard.37@gmail.com</a> ·
+  <a href="https://www.linkedin.com/in/mugabe-richard/">LinkedIn</a> ·
   <a href="https://mugaberichard.com">mugaberichard.com</a> ·
   <a href="https://twitter.com/Mugabe_Richard_">@Mugabe_Richard_</a>
 </p>
